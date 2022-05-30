@@ -8,8 +8,11 @@ What that means is businesses can reduce software failures while also providing 
 
 # The four pillers of Devops
 Ease of usibility - it allows for non developers to be able understand and interpret code
+
 Robustness - solutions are delivered quickly and fixes made have immediate affect, there should be no downtime
+
 Flexibility - can work on any program or software without having too much trouble to accomodate for it
+
 Cost - bottom line, saves money for the company, whether this is through the previous three pillers or in any other way
 
 # The role of a DevOps engineer 
