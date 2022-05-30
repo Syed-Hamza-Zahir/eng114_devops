@@ -23,7 +23,7 @@ They also supervise code changes and have the skills to help to design, develop,
 
 
 The qualities required for Devops consultant:
-![What is devops3.png](./images/What is devops3.png)
+![What_is_devops.png](./images/What_is_devops.png)
  
 
 
