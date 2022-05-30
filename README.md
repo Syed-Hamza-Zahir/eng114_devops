@@ -4,6 +4,7 @@
 It's an approach, its a set of technical and operational practices that have automation at its center. Similar to agile, It looks to streamline the software development cycle between the development and operations teams through continuous integration.
 
 What that means is businesses can reduce software failures while also providing faster security updates and software patches.
+![Devops](C:\Users\smhza\Downloads)
 
 # Vagrant 
 We are using Vagrant to create a Linux (ubunto) environment by using VirtualBox to handle the creation of the Virtual Machine (VM). 
