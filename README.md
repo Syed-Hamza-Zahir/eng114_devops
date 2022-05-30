@@ -6,6 +6,12 @@ It's an approach, its a set of technical and operational practices that have aut
 What that means is businesses can reduce software failures while also providing faster security updates and software patches.
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
+# what a devops engineer does in a day? 
+Essentially a devops engineer works between the development and operations teams. They manage the operations of software development by implementing 
+engineering tools such as Git, Ansible, Jenkins.
+
+They also supervise code changes and have the skills to help to design, develop, test and release software if required.
+
 # Vagrant 
 We are using Vagrant to create a Linux (ubunto) environment by using VirtualBox to handle the creation of the Virtual Machine (VM). 
 
