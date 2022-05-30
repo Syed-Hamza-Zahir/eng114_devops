@@ -35,7 +35,7 @@ Vargrant (version 2.2.16 or later ) - Vagrant is a tool for building and managin
 VirtualBox (version 6.0.24) - Virtual box is the underlying software that will allow you to create virtual environments on your local laptop or desktop.
 
 How vagrant works with ubunto to give us the enviroment
-![vagrant_diagram.png](./images/vagrant diagram.png)
+![vagrant_diagram.png](./images/vagrant_diagram.png)
 
 # Setting up your Linux environment
 To set up vagrant type `vagrant init` in the desired root folder. This will create a vagrantfile that'll need editing to have the following commands only:
