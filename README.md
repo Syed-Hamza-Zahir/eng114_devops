@@ -22,6 +22,10 @@ engineering tools such as Git, Ansible, Jenkins.
 They also supervise code changes and have the skills to help to design, develop, test and release software if required.
 
 
+The qualities required for Devops consultant:
+![What is devops3.png](./images/What is devops3.png)
+ 
+
 
 # Development enviroment
 An development environment in software and web development is a workspace for developers to make changes without breaking anything in a live environment. 
