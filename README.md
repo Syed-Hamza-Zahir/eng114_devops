@@ -1,16 +1,28 @@
 # My repository for my DevOps work 
 
-# What is DevOps?
+# What is DevOps
 It's an approach, its a set of technical and operational practices that have automation at its center. Similar to agile, It looks to streamline the software development cycle between the development and operations teams through continuous integration.
 
 What that means is businesses can reduce software failures while also providing faster security updates and software patches.
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
-# what a devops engineer does in a day? 
+# The four pillers of Devops
+Ease of usibility - it allows for non developers to be able understand and interpret code
+Robustness - solutions are delivered quickly and fixes made have immediate affect, there should be no downtime
+Flexibility - can work on any program or software without having too much trouble to accomodate for it
+Cost - bottom line, saves money for the company, whether this is through the previous three pillers or in any other way
+
+# The role of a DevOps engineer 
 Essentially a devops engineer works between the development and operations teams. They manage the operations of software development by implementing 
 engineering tools such as Git, Ansible, Jenkins.
 
 They also supervise code changes and have the skills to help to design, develop, test and release software if required.
+
+
+
+# Development enviroment
+An development environment in software and web development is a workspace for developers to make changes without breaking anything in a live environment. 
+
 
 # Vagrant 
 We are using Vagrant to create a Linux (ubunto) environment by using VirtualBox to handle the creation of the Virtual Machine (VM). 
@@ -21,6 +33,9 @@ Before progressing to install the virtual environment there are some dependencie
 Vargrant (version 2.2.16 or later ) - Vagrant is a tool for building and managing virtual machine environments and helps lower environment setup time.
 
 VirtualBox (version 6.0.24) - Virtual box is the underlying software that will allow you to create virtual environments on your local laptop or desktop.
+
+How vagrant works with ubunto to give us the enviroment
+![vagrant_diagram.png](./images/DevOps-Cycle.png)
 
 # Setting up your Linux environment
 To set up vagrant type `vagrant init` in the desired root folder. This will create a vagrantfile that'll need editing to have the following commands only:
