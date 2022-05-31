@@ -6,9 +6,11 @@ It's an approach, its a set of technical and operational practices that have aut
 What that means is businesses can reduce software failures while also providing faster security updates and software patches.
 
 Devops come about to answer the concerns that come between two diffferent teams. To allow for smoother communication and a reduction on blame culture.
+
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
 # The four pillers of Devops
+![pillars.png(.images/pillars.png)
 
 
 
