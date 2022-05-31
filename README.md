@@ -9,6 +9,11 @@ Devops come about to answer the concerns that come between two diffferent teams.
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
 # The four pillers of Devops
+
+
+
+
+# Benefits
 Ease of usibility - it allows for non developers to be able understand and interpret code
 
 Robustness - solutions are delivered quickly and fixes made have immediate affect, there should be no downtime
