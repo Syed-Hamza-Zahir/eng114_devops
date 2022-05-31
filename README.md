@@ -4,6 +4,8 @@
 It's an approach, its a set of technical and operational practices that have automation at its center. Similar to agile, It looks to streamline the software development cycle between the development and operations teams through continuous integration.
 
 What that means is businesses can reduce software failures while also providing faster security updates and software patches.
+
+Devops come about to answer the concerns that come between two diffferent teams. To allow for smoother communication and a reduction on blame culture.
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
 # The four pillers of Devops
