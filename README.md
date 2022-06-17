@@ -10,7 +10,7 @@ Devops come about to answer the concerns that come between two diffferent teams.
 ![DevOps-Cycle-0.1-1024x392.png](./images/DevOps-Cycle.png)
 
 # The four pillers of Devops
-![pillars.png(.images/pillars.png)
+![pillars.png](.images/pillars.png)
 
 
 
